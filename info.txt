@@ -1,0 +1,10 @@
+This is a basic understanding of git work flow
+* Ouline the steps on git workflow:
+1. Create a local repository/ folder ie: project folder on local|pc 
+2. Create some files and poplulate
+3. initialize git on the the local pc 
+4. run git add . or git add <specific-file>
+5. Commit my changes to git, snapshot of the current work
+6. Create an empty git repository on github
+7. Link the remote repository to my local pc
+8. Push to github
