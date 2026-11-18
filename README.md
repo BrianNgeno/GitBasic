@@ -2,7 +2,7 @@
 ## Prerequisites
 * WSL 
 * Vscode 
-##Setup
+## Setup
 * Clone the repository
 * Navigate to the project folder using
   ```
